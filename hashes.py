@@ -7,7 +7,7 @@ print('Getting ready...')
 
 # CONFIGURATION
 LENGTH = 5
-CHARACTERS = string.ascii_lowercase + string.digits
+CHARACTERS = string.ascii_lowercase + string.digits # Only lowercase letters and digits in this case
 INPUT_HASH = 'efc89cd82e7de19fcb13ffb6312aaf60'
 
 start = time.time()
